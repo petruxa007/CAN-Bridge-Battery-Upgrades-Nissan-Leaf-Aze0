@@ -30,7 +30,6 @@ This firmware is a paid project. I do not distribute my compiled firmware for fr
 ### What you get
 
 - Firmware for the supported 2-port CAN bridge.
-- Documentation and flashing instructions.
 - **Free firmware updates for everyone who has purchased the firmware.** You will not need to pay again for future updates to this firmware.
 - Direct contact for purchase-related questions and technical consultations.
 

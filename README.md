@@ -39,7 +39,7 @@ This firmware is a paid project. I do not distribute my compiled firmware for fr
 
 Prefer to purchase directly or have questions before buying?
 
-📧 **Email:** your-email@example.com
+📧 **Email:** olxstyle@gmail.com
 
 Feel free to contact me for purchase inquiries, compatibility questions, or consultation before starting your installation.
 
@@ -197,7 +197,7 @@ Have questions about compatibility, purchasing the firmware, or getting started?
 
 You can contact me directly:
 
-- **Email:** your-email@example.com
+- **Email:** olxstyle@gmail.com
 - **Purchase page:** https://example.com/your-firmware
 
 When contacting me, please provide as much relevant information as possible, including your vehicle model, model year, current battery configuration, and the hardware you intend to use.
